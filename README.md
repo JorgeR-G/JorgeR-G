@@ -1,5 +1,7 @@
 
 ## Hola, soy Jorge! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<br>
+<br>
 
 ### Sobre mi
 <div style="display: inline_block"  >
@@ -7,6 +9,8 @@
 <p> - 👨‍🎓 Formado en Desarrollo de Aplicaciones Web</p>
 <p> - 🎯 Interes: Java, HTML, CSS, JavaScript, MySQL. </p>  
 </div>
+<br>
+<br>
 
 ### Herramientas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
@@ -15,6 +19,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+<br>
+<br>
 
 ## Mis skills:
 <div align="center">
@@ -28,6 +34,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">   
 </div>
+<br>
+<br>
 
 ## Mis contactos:
 
