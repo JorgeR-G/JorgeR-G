@@ -37,7 +37,6 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/jorge-rodríguez-a11265280">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:/https://www.linkedin.com/in/jorge-rodríguez-a11265280">
     </a>
 </p>
 
