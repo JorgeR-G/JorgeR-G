@@ -3,7 +3,6 @@
 
 ### Sobre mi
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Developrr Web Jr. </p>
 <p> - 👨‍🎓 Formado en Desarrollo de Aplicaciones Web</p>
 <p> - 🎯 Interes: Java, HTML, CSS, JavaScript. </p>  
@@ -42,17 +41,17 @@
 <br>
 <br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/JorgeR-G/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeR-G&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/JorgeR-G/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=teteusAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=JorgeR-G&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
