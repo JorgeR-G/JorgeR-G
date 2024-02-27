@@ -38,6 +38,7 @@
 <br>
 
 ## Mis contactos:
+[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
 
 <p align="center">
     <a href="https://github.com/JorgeR-G">
