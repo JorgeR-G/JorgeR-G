@@ -48,7 +48,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/jorge-rodríguez-a11265280">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jorge rodriguez garcia" height="30" width="40" />linkedin</a>
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jorge rodriguez garcia" height="30" width="40"/>
 </p>
 
 <p align="center"> 
