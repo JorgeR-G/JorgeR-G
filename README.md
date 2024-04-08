@@ -46,7 +46,7 @@
     <a href="mailto:contactasJorGii@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contactasJorGii@gmail.com">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   
     <a href="https://www.linkedin.com/in/jorge-rodríguez-a11265280">
    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jorge rodriguez garcia" height="30" width="40"/>
 </p>
