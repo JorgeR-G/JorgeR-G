@@ -7,7 +7,7 @@
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Developrr Web Jr. </p>
 <p> - 👨‍🎓 Formado en Desarrollo de Aplicaciones Web</p>
-<p> - 🎯 Interes: Java, HTML, CSS, SCSS JavaScript, MySQL. </p>  
+<p> - 🎯 Interes: Java, HTML, CSS, SCSS JavaScript, PHP, SQL. </p>  
 </div>
 <br>
 <br>
