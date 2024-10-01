@@ -7,7 +7,7 @@
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Developer Web Jr. </p>
 <p> - 👨‍🎓 Formado en Desarrollo de Aplicaciones Web</p>
-<p> - 🎯 Interes: Java, HTML, CSS, SCSS JavaScript, Angular, PHP, SQL. </p>  
+<p> - 🎯 Interes: Java, HTML, CSS, SCSS JavaScript, Angular, PHP, SQL, .NET Framework </p>  
 </div>
 <br>
 <br>
@@ -36,7 +36,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/NET_Core_Logo/NET_Core_Logo.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/net-framework/net-framework.svg">
+
     
 </div>
 <br>
