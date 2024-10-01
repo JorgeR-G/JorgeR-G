@@ -5,7 +5,7 @@
 
 ### Sobre mi
 <div style="display: inline_block"  >
-<p> - 👨‍💻 Developrr Web Jr. </p>
+<p> - 👨‍💻 Developer Web Jr. </p>
 <p> - 👨‍🎓 Formado en Desarrollo de Aplicaciones Web</p>
 <p> - 🎯 Interes: Java, HTML, CSS, SCSS JavaScript, Angular, PHP, SQL. </p>  
 </div>
@@ -35,6 +35,8 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.netcore/.netcore.svg">
     
 </div>
 <br>
