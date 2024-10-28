@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Jorge Rodriguez</h1>
-<h3 align="center">soy un Desarrollador apasionado</h3>
+<h3 align="center">Soy un Desarrollador apasionado</h3>
 
 - 💬 Ask me about **Java, HTML, CSS, SCSS JavaScript, Angular, PHP, SQL, .NET Framework**
 
@@ -17,20 +17,6 @@
 
 <br>
 <br>
-
-## Mis contactos:
-<p align="center">
-    <a href="https://github.com/JorgeR-G">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/JorgeR-G">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:contactasJorGii@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contactasJorGii@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jorge-rodríguez-a11265280">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jorge rodriguez garcia" height="30" width="40"/>
-</p>
 
 <p align="center"> 
 <br>
