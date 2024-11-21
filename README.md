@@ -71,5 +71,5 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 # 💰 **Apoya mi trabajo**
 Si deseas apoyar mi trabajo y mis proyectos, puedes hacerlo mediante el siguiente enlace:
 
-[![PayPal](https://img.shields.io/badge/paypal%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-paypal&logoColor=black)](https://www.paypal.com/paypalme/JorgerRG1)
+[![PayPal](https://img.shields.io/badge/paypal%20-ffdd00?style=for-the-badge&logo=buy-me-a-paypal&logoColor=black)](https://www.paypal.com/paypalme/JorgerRG1)
 
