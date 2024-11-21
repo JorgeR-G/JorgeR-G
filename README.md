@@ -49,7 +49,7 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 
 # 📊 **Estadísticas de GitHub**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeR-G)
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeR-G&show_icons=true&theme=radical)
 
 
 ### **Mis contribuciones en GitHub:**
