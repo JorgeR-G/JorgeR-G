@@ -49,8 +49,6 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 
 # 📊 **Estadísticas de GitHub**
 
-### **Mis contribuciones en GitHub:**
-
 ![](https://github-readme-stats.vercel.app/api?username=JorgeR-G&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)  
 
 ---
@@ -62,6 +60,8 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeR-G&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+### **Mis contribuciones en GitHub:**
 
 # 👀 **Visitas a mi perfil**  
 [![](https://visitcount.itsvg.in/api?id=JorgeR-G&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -71,17 +71,5 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 # 💰 **Apoya mi trabajo**
 Si deseas apoyar mi trabajo y mis proyectos, puedes hacerlo mediante el siguiente enlace:
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/JorgeR-G)
-
-![](https://github-readme-stats.vercel.app/api?username=JorgeR-G&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)  
-
----
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JorgeR-G&theme=highcontrast&hide_border=false)
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeR-G&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
+[![PayPal](https://img.shields.io/badge/paypal%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-paypal&logoColor=black)](https://www.paypal.com/paypalme/JorgerRG1)
 
