@@ -1,13 +1,17 @@
-<h1 align="center">Hola 👋, me llamo Jorge Rodriguez</h1>
-<h3 align="center">Soy un Desarrollador apasionado</h3>
+  # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50" /> **¡Hola! Soy Jorge Rodríguez García**
 
-- 💬 Ask me about **Java, HTML, CSS, SCSS JavaScript, Angular, PHP, SQL, .NET Framework**
+**Full Stack Developer** con conocimientos en tecnologías clave como **JavaScript**, **Java**, **PHP**, **SQL** y **Java**. 
 
+![RGB Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
+### **Áreas de especialización**:
+- **Frontend:** HTML5, CSS3, Sass, JavaScript, React, TailwindCSS, Bootstrap  
+- **Backend:** Python, Flask, Java, APIs RESTful, JWT, SQL  
+- **Bases de datos:** SQL, SQLAlchemy, PostgreSQL, MongoDB 
+- **Control de versiones:** Git, GitHub  
+- **Otras tecnologías:** OpenAI API, Leaflet.js, Cloudinary
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
+---
 # 🌐 **Redes Sociales**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorger-g/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Jorge_rrg/#)
