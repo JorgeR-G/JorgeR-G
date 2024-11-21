@@ -48,7 +48,8 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # 📊 **Estadísticas de GitHub**
-[![GitHub stats](https://github.com/JorgeR-G/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.app.netlify.com/api?username=JorgeR-G)](https://github.com/JorgeR-G/github-readme-stats)
 
 
 ### **Mis contribuciones en GitHub:**
