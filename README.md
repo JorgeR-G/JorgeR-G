@@ -51,15 +51,15 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 
 ### **Mis contribuciones en GitHub:**
 
-![](https://github-readme-stats.vercel.app/api?username=Cristiann05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=JorgeR-G&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)  
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cristiann05&theme=highcontrast&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JorgeR-G&theme=highcontrast&hide_border=false)
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiann05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeR-G&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
