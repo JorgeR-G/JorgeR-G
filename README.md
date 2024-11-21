@@ -49,17 +49,10 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 
 # 📊 **Estadísticas de GitHub**
 
-![](https://github-readme-stats.vercel.app/api?username=JorgeR-G&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github.com/JorgeR-G/github-readme-stats)
 
----
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=JorgeR-G&theme=highcontrast&hide_border=false)
 
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeR-G&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ### **Mis contribuciones en GitHub:**
 
