@@ -5,8 +5,8 @@
 ![RGB Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### **Áreas de especialización**:
-- **Frontend:** HTML5, CSS3, SASS, JavaScript, Node.js, Angular, C#   
-- **Backend:** C#, Java, SQL  
+- **Frontend:** HTML5, CSS3, SASS, JavaScript, Node.js, Angular, C# , Node.js 
+- **Backend:** C#, Java, SQL, Node.js
 - **Bases de datos:** SQL 
 - **Control de versiones:** Git, GitHub  
 - **Otras tecnologías:** Gulp, NPM, Linux, AWS
