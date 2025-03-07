@@ -1,4 +1,5 @@
   # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50" /> **¡Hola! Soy Jorge Rodríguez García**
+  - Porfolio ->https://my-portfolioweb-jorgerg.netlify.app/
 
 **Full Stack Developer** con conocimientos en tecnologías clave como **JavaScript**, **Java**, **PHP**, **SQL**. 
 
@@ -16,7 +17,6 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorger-g/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Jorge_rrg/#)
 - [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Jorgezg_)
-- [![Porfolio](https://my-portfolioweb-jorgerg.netlify.app/)
 
 ---
 
