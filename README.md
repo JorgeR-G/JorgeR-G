@@ -1,4 +1,4 @@
-  # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50" /> **¡Hola! Soy Jorge Rodríguez García**
+  # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50" /> **¡Hola! Soy Jorge Rodríguez **
   - Porfolio ->https://my-portfolioweb-jorgerg.netlify.app/
 
 **Full Stack Developer** con conocimientos en tecnologías clave como **JavaScript**, **Java**, **PHP**, **SQL**. 
