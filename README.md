@@ -28,7 +28,7 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 ---
 # 🛠️ **Tecnologías y Herramientas**
 
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![SASS](https://img.shields.io/badge/SASS-%231572B6.svg?style=for-the-badge&logo=sass&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
@@ -48,14 +48,6 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 - ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)  
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# 📊 **Estadísticas de GitHub**
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JorgeR-G&show_icons=true)
-
-# 👀 **Visitas a mi perfil**  
-[![](https://visitcount.itsvg.in/api?id=JorgeR-G&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 # 💰 **Apoya mi trabajo**
 Si deseas apoyar mi trabajo y mis proyectos, puedes hacerlo mediante el siguiente enlace:
