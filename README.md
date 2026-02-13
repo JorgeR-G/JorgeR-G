@@ -36,4 +36,6 @@ Si deseas apoyar mi trabajo y mis proyectos, puedes hacerlo mediante el siguient
 
 [![PayPal](https://img.shields.io/badge/paypal%20-ffdd00?style=for-the-badge&logo=buy-me-a-paypal&logoColor=black)](https://www.paypal.com/paypalme/JorgerRG1)
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JorgeR-g&label=Profile%20views&color=0e75b6&style=flat" alt="JorgeR-G" /> </p>
